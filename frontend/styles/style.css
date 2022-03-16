@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,1)), url("/frontend/images/bghome.jpg");
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,1)), url("dpw/frontend/images/bghome.jpg");
     background-size: 110%;
     background-repeat: no-repeat;
     background-attachment: scroll;
